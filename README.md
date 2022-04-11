@@ -16,7 +16,7 @@ Build OpenWrt using GitHub Actions
 - Select `Build OpenWrt` on the Actions page.
 - Click the `Run workflow` button.
 - When the build is complete, click the `Artifacts` button in the upper right corner of the Actions page to download the binaries.
-- Use `openwrt-x86-64-generic-squashfs-combined-efi.img` to upgrade
+- Use `openwrt-x86-64-generic-squashfs-combined-efi.img` to install and upgrade
 
 ## Tips
 
